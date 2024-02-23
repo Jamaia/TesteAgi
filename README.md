@@ -18,19 +18,39 @@ npm install -g cypress
 
 ```
 
-Clonando o Repositório:
-Para clonar este repositório, execute o seguinte comando no terminal:
+### **Clonando o Repositório:**
+Para clonar este repositório, execute o seguinte comando no terminal 👇
+```js  
+
 git clone https://github.com/VicDiniz2312/blogdoAgiVictor.git
 
-Configuração do Projeto
-Abra o Projeto no Visual Studio Code: Navegue até a pasta do projeto e abra-a no Visual Studio Code.
+```
 
-Instale as Dependências do Projeto: No terminal do Visual Studio Code, execute o seguinte comando para instalar as dependências do projeto:
+
+### **Configuração do Projeto:**
+- Abra o Projeto no Visual Studio Code: Navegue até a pasta do projeto e abra-a no Visual Studio Code.
+- Instale as Dependências do Projeto: No terminal do Visual Studio Code, execute o seguinte comando para instalar as dependências do projeto:
+```js  
 
 npm install
 
-Executando os Testes
-Para executar os testes, execute o seguinte comando no terminal:
-cypress open
+```
 
-Importando e Executando Testes no GitLab CI/CD:
+### **Executando os Testes:**
+Para executar os testes, execute o seguinte comando no terminal 👇
+
+```js  
+
+npm run headless
+
+```
+Se preferir, executar o teste pela "telinha" do cypress 👇
+
+```js  
+
+npm run front_cypress
+
+```
+Ao abrir a "telinha" do cypress, escolher um navegador e pronto.
+
+### **Importando e Executando Testes no GitLab CI/CD:**
