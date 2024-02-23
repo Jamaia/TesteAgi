@@ -1,6 +1,6 @@
 ![cypress](https://github.com/VicDiniz2312/blogdoAgiVictor/assets/36644010/b3a93e74-c31d-4639-a80d-b44f68d7deae)
 
-**#Projeto BlogdoAgi de Automação de Testes com Cypress**
+# **Projeto BlogdoAgi de Automação de Testes com Cypress**
 
 Este projeto contém testes automatizados escritos em JavaScript com Cypress
 
