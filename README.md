@@ -9,6 +9,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina 👇
 
 - Node.js;
 - Visual Studio Code;
+- Git e GitBash
 
 ### **Instalação do Cypress:**
 Abra o terminal e execute o seguinte comando para instalar o Cypress globalmente 👇
@@ -19,7 +20,7 @@ npm install -g cypress
 ```
 
 ### **Clonando o Repositório:**
-Para clonar este repositório, execute o seguinte comando no terminal 👇
+Para clonar este repositório, execute o seguinte comando no terminal do GitBash 👇
 ```js  
 
 git clone https://github.com/VicDiniz2312/blogdoAgiVictor.git
@@ -54,3 +55,4 @@ npm run front_cypress
 Ao abrir a "telinha" do cypress, escolher um navegador e pronto.
 
 ### **Importando e Executando Testes no GitLab CI/CD:**
+Com uma conta no gitlab vá até Projeto > Novo Projeto > Importar projeto > GitHub > Importar o projeto público: VicDiniz2312/blogdoAgiVictor > TestsVidiviso/blogdoAgiVictor
