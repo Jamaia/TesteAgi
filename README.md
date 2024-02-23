@@ -1,20 +1,22 @@
 ![cypress](https://github.com/VicDiniz2312/blogdoAgiVictor/assets/36644010/b3a93e74-c31d-4639-a80d-b44f68d7deae)
 
-# **Projeto BlogdoAgi de Automação de Testes com Cypress**
+# **Projeto BlogdoAgi de Automação de Testes**
 
 Este projeto contém testes automatizados escritos em JavaScript com Cypress
 
-Pré-requisitos:
-Antes de começar, certifique-se de ter instalado em sua máquina:
+### **Pré-requisitos:**
+Antes de começar, certifique-se de ter instalado em sua máquina 👇
 
-Node.js
-Visual Studio Code (ou qualquer editor de texto de sua preferência)
+- Node.js;
+- Visual Studio Code;
 
-Instalação do Cypress:
-Instale o Node.js: Baixe e instale a versão mais recente do Node.js no site oficial.
+### **Instalação do Cypress:**
+Abra o terminal e execute o seguinte comando para instalar o Cypress globalmente 👇
+```js  
 
-Instale o Cypress: Abra o terminal e execute o seguinte comando para instalar o Cypress globalmente:
 npm install -g cypress
+
+```
 
 Clonando o Repositório:
 Para clonar este repositório, execute o seguinte comando no terminal:
