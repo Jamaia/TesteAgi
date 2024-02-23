@@ -58,3 +58,5 @@ Ao abrir a "telinha" do cypress, escolher um navegador e pronto.
 Com uma conta no gitlab vá até Projeto > Novo Projeto > Importar projeto > GitHub > Importar o projeto público: VicDiniz2312/blogdoAgiVictor > TestsVidiviso/blogdoAgiVictor
 
 Por fim, ir até Construção > Pipeline > Executar Pipeline. Pois o projeto já possui o arquivo _.gitlab-ci.yml_ com as devidas configurações para execução.
+
+Link público do projeto no Gitlab: https://gitlab.com/TestsVidiviso/blogdoAgiVictor
